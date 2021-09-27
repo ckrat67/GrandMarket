@@ -2,7 +2,7 @@
   "name": "The Grand Market by Xenon",
   "short_name": "The Grand Market",
   "display": "standalone",
-  "start_url": ".",
+  "homepage": "https://ckrat67.github.io/GrandMarket",
   "theme_color": "#002140",
   "background_color": "#001529",
   "icons": [
