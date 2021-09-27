@@ -3,8 +3,8 @@
   "short_name": "The Grand Market",
   "display": "standalone",
   "start_url": "./index.html",
-  "theme_color": "#002140",
-  "background_color": "#001529",
+  "theme_color": "#065299",
+  "background_color": "#0e1340",
   "icons": [
     {
       "src": "/favicon-16x16.png",
